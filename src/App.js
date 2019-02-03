@@ -1,35 +1,47 @@
 import React, { Component } from "react";
-import FriendCard from "./components/FriendCard";
+import AvengerCard from "./components/AvengerCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
-import friends from "./avengers.json";
+import avengers from "./avengers.json";
 
 class App extends Component {
-  // Setting this.state.friends to the friends json array
+  // Setting this.state.avengers to the avengers json array
+
+
   state = {
-    friends
+    avengers,
+    pickedalready: false
   };
 
   avengerClicked = id => {
-    // Filter this.state.friends for friends with an id not equal to the id being removed
-    const friends = this.state.friends.filter(friend => friend.id !== id);
-    alert(this.friend.id)
-    // Set this.state.friends equal to the new friends array
-    // this.setState({ friends });
+    console.log(this.state.avengers[id-1].name)
+    console.log(this.state.avengers[id-1].pickedalready)
+    if (this.state.avengers[id-1].pickedalready === false) {
+      console.log('in the false leg of the if statement')
+      console.log(this.state.avengers[id-1].pickedalready);
+    //   this.addOne();
+      this.setState({ pickedalready: true });
+      console.log(this.state.pickedalready);
+    } else {
+    //   this.clickedtwice();
+    console.log('in the true leg of the if statement')
+    console.log(this.state.avengers[id-1].name,"has been clicked already");
+    }
   };
 
-  // Map over this.state.friends and render a FriendCard component for each friend object
+  // Map over this.state.avengers and render a avengerCard component for each avenger object
   render() {
     return (
       <Wrapper>
-        <Title>Friends List</Title>
-        {this.state.friends.map(friend => (
-          <FriendCard
+        <Title>Welcome to the Avenger Clicky Game</Title>
+        {this.state.avengers.map(avenger => (
+          <AvengerCard
             avengerClicked={this.avengerClicked}
-            id={friend.id}
-            key={friend.id}
-            name={friend.name}
-            image={friend.image}
+            id={avenger.id}
+            key={avenger.id}
+            name={avenger.name}
+            image={avenger.image}
+            mixthemup={this.mixthemup}
           />
         ))}
       </Wrapper>

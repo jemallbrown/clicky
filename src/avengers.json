@@ -75,7 +75,7 @@
     "id": 13,
     "name": "Falcon",
     "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-008-200x200.jpg",
-    "pickedalready": false
+    "pickedalready": true
   },
   {
     "id": 14,
@@ -87,12 +87,6 @@
     "id": 15,
     "name": "Black Panther",
     "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-021-200x200.jpg",
-    "pickedalready": false
-  },
-  {
-    "id": 16,
-    "name": "Spidey",
-    "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-020-200x200.jpg",
-    "pickedalready": false
+    "pickedalready": true
   }
 ]
