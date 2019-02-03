@@ -3,112 +3,96 @@
     "id": 1,
     "name": "Hulk",
     "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-014-200x200.jpg",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "pickedalready": false
   },
   {
     "id": 2,
     "name": "War Machine",
     "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-015-200x200.jpg",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "pickedalready": false
   },
   {
     "id": 3,
     "name": "Black Widow",
-    "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-016.jpg",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-016-200x200.jpg",
+    "pickedalready": false
   },
   {
     "id": 4,
     "name": "Dr. Strange",
-    "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-013.jpg",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-013-200x200.jpg",
+    "pickedalready": false
   },
   {
     "id": 5,
     "name": "Winter Soldier",
     "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-012-200x200.jpg",
-    "occupation": "A Cowardly Dog",
-    "location": "Nowhere, Kansas"
+    "pickedalready": false
   },
   {
     "id": 6,
     "name": "Thor",
     "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-011-200x200.jpg",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "pickedalready": false
   },
   {
     "id": 7,
     "name": "Mantis",
     "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-010-200x200.jpg",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "pickedalready": false
   },
   {
     "id": 8,
     "name": "Wanda Maximoff",
     "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-009-200x200.jpg",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "pickedalready": false
   },
   {
     "id": 9,
     "name": "Quill",
     "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-004-200x200.jpg",
-    "occupation": "Adventurer",
-    "location": "California"
+    "pickedalready": false
   },
   {
     "id": 10,
     "name": "Iron Man",
     "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-005-200x200.jpg",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "pickedalready": false
   },
   {
     "id": 11,
     "name": "Gamora",
     "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-006-200x200.jpg",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "pickedalready": false
   },
   {
     "id": 12,
     "name": "Captain America",
     "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-007-200x200.jpg",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "pickedalready": false
   },
   {
     "id": 13,
     "name": "Falcon",
     "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-008-200x200.jpg",
-    "occupation": "Adventurer",
-    "location": "California"
+    "pickedalready": false
   },
   {
     "id": 14,
     "name": "Draxx",
     "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-003-200x200.jpg",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "pickedalready": false
   },
   {
     "id": 15,
     "name": "Black Panther",
     "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-021-200x200.jpg",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "pickedalready": false
   },
   {
     "id": 16,
     "name": "Spidey",
     "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-020-200x200.jpg",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "pickedalready": false
   }
 ]
