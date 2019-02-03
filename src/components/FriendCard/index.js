@@ -2,6 +2,7 @@ import React from "react";
 import "./style.css";
 
 function FriendCard(props) {
+  console.log(props.image)
   return (
     <div className="card">
       <div className="img-container">
