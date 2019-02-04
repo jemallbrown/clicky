@@ -3,7 +3,7 @@ import AvengerCard from "./components/AvengerCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
 import avengers from "./avengers.json";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/Navbar/Navbar";
 
 // function mixthemup(array) {
 //   for (let i = array.length -1 ; i < array.length; i++) {
@@ -43,7 +43,8 @@ class App extends Component {
           {
             clickedavenger: this.state.clickedavenger.push(
               currentavenger
-            )
+            ),
+            score: this.state.score + 1
           }
         )
       }
@@ -70,8 +71,8 @@ class App extends Component {
         score={this.state.score}
         />
       
-        <Title>Welcome to the Avenger Clicky Game</Title>
       <Wrapper>
+        <Title>Welcome to the Avenger Clicky Game</Title>
         {this.state.avengers.map(avenger => (
           <AvengerCard
             avengerClicked={this.avengerClicked}

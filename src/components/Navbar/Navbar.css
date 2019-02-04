@@ -1,0 +1,25 @@
+li {
+    color: white;
+    padding: 15px 0;
+}
+
+body {
+    font-size: 24px;
+}
+
+.left {
+    width: 15%
+}
+
+.middle {
+    width: 70%
+}
+
+.right {
+    width: 15%
+}
+
+.navbar li {
+    display: inline-block;
+    text-align: center;
+}
