@@ -2,73 +2,61 @@
   {
     "id": 1,
     "name": "Hulk",
-    "image": "hulk.jpg",
-    "pickedalready": false
+    "image": "hulk.jpg"
   },
   {
     "id": 2,
     "name": "War Machine",
-    "image": "rhodes.jpg",
-    "pickedalready": false
+    "image": "rhodes.jpg"
   },
   {
     "id": 3,
     "name": "Black Widow",
-    "image": "widow.jpg",
-    "pickedalready": false
+    "image": "widow.jpg"
   },
   {
     "id": 6,
     "name": "Thor",
-    "image": "thor.jpg",
-    "pickedalready": false
+    "image": "thor.jpg"
   },
   {
     "id": 7,
     "name": "Mantis",
-    "image": "mantis.jpg",
-    "pickedalready": false
+    "image": "mantis.jpg"
   },
   {
     "id": 9,
     "name": "Quill",
-    "image": "quill.jpg",
-    "pickedalready": false
+    "image": "quill.jpg"
   },
   {
     "id": 10,
     "name": "Iron Man",
-    "image": "tony.jpg",
-    "pickedalready": false
+    "image": "tony.jpg"
   },
   {
     "id": 11,
     "name": "Gamora",
-    "image": "gamora.jpg",
-    "pickedalready": false
+    "image": "gamora.jpg"
   },
   {
     "id": 12,
     "name": "Captain America",
-    "image": "capt.jpg",
-    "pickedalready": false
+    "image": "capt.jpg"
   },
   {
     "id": 13,
     "name": "Falcon",
-    "image": "falcon.jpg",
-    "pickedalready": true
+    "image": "falcon.jpg"
   },
   {
     "id": 14,
     "name": "Draxx",
-    "image": "draxx.jpg",
-    "pickedalready": false
+    "image": "draxx.jpg"
   },
   {
     "id": 15,
     "name": "Black Panther",
-    "image": "panther.jpg",
-    "pickedalready": true
+    "image": "panther.jpg"
   }
 ]

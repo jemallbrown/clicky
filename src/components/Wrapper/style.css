@@ -4,8 +4,10 @@
   height: 100%;
   display: flex;
   flex-flow: row wrap;
-  padding: 20px;
-  justify-content: space-around;
+  padding-bottom: 20px;
+  /* justify-content: space-around; */
   align-content: flex-start;
   overflow: auto;
+  background: #6d1d6d;
+  max-width: 800px;
 }

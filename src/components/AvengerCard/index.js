@@ -13,10 +13,3 @@ function AvengerCard(props) {
 }
 
 export default AvengerCard;
-
-
-// {/* <img alt={props.name} src={require("../../images/" + props.image)} /> */}
-
-
-// Original
-//         <img alt={props.name} src={props.image} />

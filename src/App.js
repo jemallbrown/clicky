@@ -84,17 +84,18 @@ class App extends Component {
 
   render() {
     return (
-      <div>
+      <div className="container">
       <Navbar
         score={this.state.score}
         gamesLost={this.state.gamesLost}
         gamesWon={this.state.gamesWon}
         />
-      
-      <Wrapper>
-        <Title>Welcome to the Avenger Clicky Game</Title>
+      <Title>Welcome to the Avenger Clicky Game
+      <p className="titlep">Click each image only once.  If you can click each one only once you win the game!!</p>
+      </Title>
+      <Wrapper className="container">
         {this.state.avengers.map(avenger => (
-          <AvengerCard
+          <AvengerCard className="col-md-3"
             avengerClicked={this.avengerClicked}
             id={avenger.id}
             key={avenger.id}
