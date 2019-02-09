@@ -5,11 +5,18 @@
 /.pnp
 .pnp.js
 
+#.gitignore for heroku deployment
+src/*
+public/*
+build/static/css/*.map
+build/static/js/*.map
+
+
 # testing
 /coverage
 
-# production
-/build
+# production 
+#/build -- removed for heroku deployment
 
 # misc
 .DS_Store
