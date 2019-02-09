@@ -18,6 +18,7 @@
 .navbar {
   background: #420242;
   box-shadow: 0 3px 6px rgba(123, 4, 179, 0.534), 0 3px 6px rgb(158, 50, 230);
+  margin: auto;
 }
 
 li {
