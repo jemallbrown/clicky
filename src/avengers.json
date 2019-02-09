@@ -2,91 +2,73 @@
   {
     "id": 1,
     "name": "Hulk",
-    "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-014-200x200.jpg",
+    "image": "hulk.jpg",
     "pickedalready": false
   },
   {
     "id": 2,
     "name": "War Machine",
-    "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-015-200x200.jpg",
+    "image": "rhodes.jpg",
     "pickedalready": false
   },
   {
     "id": 3,
     "name": "Black Widow",
-    "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-016-200x200.jpg",
-    "pickedalready": false
-  },
-  {
-    "id": 4,
-    "name": "Doc Strange",
-    "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-013-200x200.jpg",
-    "pickedalready": false
-  },
-  {
-    "id": 5,
-    "name": "Winter Soldier",
-    "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-012-200x200.jpg",
+    "image": "widow.jpg",
     "pickedalready": false
   },
   {
     "id": 6,
     "name": "Thor",
-    "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-011-200x200.jpg",
+    "image": "thor.jpg",
     "pickedalready": false
   },
   {
     "id": 7,
     "name": "Mantis",
-    "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-010-200x200.jpg",
-    "pickedalready": false
-  },
-  {
-    "id": 8,
-    "name": "Wanda Maximoff",
-    "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-009-200x200.jpg",
+    "image": "mantis.jpg",
     "pickedalready": false
   },
   {
     "id": 9,
     "name": "Quill",
-    "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-004-200x200.jpg",
+    "image": "quill.jpg",
     "pickedalready": false
   },
   {
     "id": 10,
     "name": "Iron Man",
-    "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-005-200x200.jpg",
+    "image": "tony.jpg",
     "pickedalready": false
   },
   {
     "id": 11,
     "name": "Gamora",
-    "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-006-200x200.jpg",
+    "image": "gamora.jpg",
     "pickedalready": false
   },
   {
     "id": 12,
     "name": "Captain America",
-    "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-007-200x200.jpg",
+    "image": "capt.jpg",
     "pickedalready": false
   },
   {
     "id": 13,
     "name": "Falcon",
-    "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-008-200x200.jpg",
+    "image": "falcon.jpg",
     "pickedalready": true
   },
   {
     "id": 14,
     "name": "Draxx",
-    "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-003-200x200.jpg",
+    "image": "draxx.jpg",
     "pickedalready": false
   },
   {
     "id": 15,
     "name": "Black Panther",
-    "image": "https://www.technobuffalo.com/wp-content/uploads/2018/04/avengers-infinity-war-character-posters-021-200x200.jpg",
+    "image": "panther.jpg",
     "pickedalready": true
   }
 ]

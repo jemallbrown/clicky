@@ -15,7 +15,9 @@ class Navbar extends Component {
             </li>
             <li className="nav-item">How good is your memory?</li>
             <li className="nav-item"></li>
-            <li className="nav-item">Score: {this.props.score}</li>
+            <li className="nav-item">Current Score: {this.props.score}</li>
+            <li className="nav-item">Wins: {this.props.gamesWon}</li>
+            <li className="nav-item">Losses: {this.props.gamesLost}</li>
             <button className="btn-danger btn-large"></button>
         </ul>
         </nav>
